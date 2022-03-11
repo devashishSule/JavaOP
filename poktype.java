@@ -84,7 +84,7 @@ class poktype extends pokedex implements pokowner{
 //main
 	public static void main(String args[]){
 	pokemon pokemon_class; //ref var
-	pokedex	pokedex_class; //ref var
+	// pokedex	pokedex_class; //ref var
         poktype poke1 = new poktype();
 	poke1.set();
         poke1.show();
