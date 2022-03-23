@@ -1,6 +1,6 @@
 
 class parent {
-    String fact;
+    String fact = "Java sucks. Reality is often disappointing";
     // This is the parent class
     // Creating a method
     void method(){
@@ -20,7 +20,6 @@ public class upcasting {
     public static void main(String[] args) {
         // accessing child obj to parent obj
         parent p = new child();
-        p.fact = "Java sucks. Reality is often disappointing";
         System.out.println(p.fact);
         p.method(); // here method from child class is invoked
         // So, here variable from parent class and method from child class is invoked.
