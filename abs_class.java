@@ -1,3 +1,4 @@
+// abstract class cannot create an object 
 abstract class parent{
     abstract void show();
     void display(){
