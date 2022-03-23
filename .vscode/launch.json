@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AttackOnTitan",
+            "request": "launch",
+            "mainClass": "AttackOnTitan",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch abs_class",
+            "request": "launch",
+            "mainClass": "abs_class",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch dmd",
+            "request": "launch",
+            "mainClass": "dmd",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch file_reader",
+            "request": "launch",
+            "mainClass": "file_reader",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiple",
+            "request": "launch",
+            "mainClass": "multiple",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch poktype",
+            "request": "launch",
+            "mainClass": "poktype",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract1A",
+            "request": "launch",
+            "mainClass": "pract1A",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract1B",
+            "request": "launch",
+            "mainClass": "pract1B",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract1C",
+            "request": "launch",
+            "mainClass": "pract1C",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract2A",
+            "request": "launch",
+            "mainClass": "pract2A",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract2B",
+            "request": "launch",
+            "mainClass": "pract2B",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract2B_2",
+            "request": "launch",
+            "mainClass": "pract2B_2",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract2C",
+            "request": "launch",
+            "mainClass": "pract2C",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract2C_",
+            "request": "launch",
+            "mainClass": "pract2C_",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract2D",
+            "request": "launch",
+            "mainClass": "pract2D",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract3a",
+            "request": "launch",
+            "mainClass": "pract3a",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract3b",
+            "request": "launch",
+            "mainClass": "pract3b",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract3c",
+            "request": "launch",
+            "mainClass": "pract3c",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pract5A",
+            "request": "launch",
+            "mainClass": "pract5A",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch super_keyword",
+            "request": "launch",
+            "mainClass": "super_keyword",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch thread",
+            "request": "launch",
+            "mainClass": "thread",
+            "projectName": "Practicals_1ac418d8"
+        },
+        {
+            "type": "java",
+            "name": "Launch timepass",
+            "request": "launch",
+            "mainClass": "timepass",
+            "projectName": "Practicals_1ac418d8"
+        }
+    ]
+}
