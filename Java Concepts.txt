@@ -1,0 +1,19 @@
+Java Concecpts:
+
+1. Method Overloading: 
+    Same method name, different parameters used.
+    Takes place in same class.
+    e.g AttackOnTitan.java in this repository
+
+2. Method Overriding: 
+    Same method name. 
+    No parameters required to execute.
+    Takes place in different classes but these classes should be inherited.
+    e.g meth_overriden.java in this repository
+
+3. Super keyword: 
+    Calls the parameters from the parent class.
+    e.g super_keyword.java in this repository
+
+4. Constructor: 
+    Whenever an object is created, Constructor is invoked.
