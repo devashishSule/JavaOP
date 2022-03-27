@@ -1,8 +1,8 @@
-import java.io.*;
+import java.io.*; // all packages imported
 public class file_reader {
     public static void main(String[] args) {
-        String fileName = "D:\\Bachelors of Science - IT\\B.Sc - IT ( Sem IV )\\Core Java (CJ)\\Practicals\\Sample text.txt";
-        String fileOut = "D:\\Bachelors of Science - IT\\B.Sc - IT ( Sem IV )\\Core Java (CJ)\\Practicals\\Copied_text.txt";
+        String fileName = "C:\\Users\\Devashish\\OneDrive\\Desktop\\JavaOP\\Sample_text.txt";
+        String fileOut = "C:\\Users\\Devashish\\OneDrive\\Desktop\\JavaOP\\Copied_text.txt";
         
         try{
             FileReader fr = new FileReader(fileName);
