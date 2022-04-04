@@ -23,4 +23,10 @@ Java Concecpts:
 5. Dynamic Method Dispatch (DMD):
     Here, we have to create an object reference of an parent class inorder to call the
     objects of the inherited class. Method is overriden in inherited class from parent class.
-    e.g in detailed is in dmd.java in this repository. 
+    e.g in detailed is in dmd.java in this repository
+
+6. Abstract class:
+    A class is declared as abstract using abstract keyword. It cannot be instantialised.
+    It can be suclassed. It may or may not contain abstract methods.Yo can only create 
+    abstract methods here but cannot define them.
+    e.g in abs_class.java file in this repository 
