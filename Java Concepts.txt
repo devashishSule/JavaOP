@@ -19,3 +19,8 @@ Java Concecpts:
     Whenever an object is created, Constructor is invoked.
     Constructor name is same as class name.
     e.g BMI.java in this repository
+
+5. Dynamic Method Dispatch (DMD):
+    Here, we have to create an object reference of an parent class inorder to call the
+    objects of the inherited class. Method is overriden in inherited class from parent class.
+    e.g in detailed is in dmd.java in this repository. 
