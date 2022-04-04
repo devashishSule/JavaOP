@@ -17,3 +17,5 @@ Java Concecpts:
 
 4. Constructor: 
     Whenever an object is created, Constructor is invoked.
+    Constructor name is same as class name.
+    e.g BMI.java in this repository
