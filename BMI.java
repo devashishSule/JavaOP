@@ -17,16 +17,16 @@ public class BMI {
     }
 
     void conclusion(double x){
-        if(x>=24.5 && x<=27.0){
+        if(x>=24.50000 && x<=27.00000){
             System.out.println("You are Fit.");
         }
-        if(x<24.5){
+        if(x<24.50000){
             System.out.println("You are Under-weight.");
         }
-        if(x>=28.0 && x<30){
+        if(x>27.00000 && x<30.00000){
             System.out.println("You are Over-weight.");
         }
-        if (x>=30.0){
+        if (x>=30.00000){
             System.out.println("You are Obese.");
         }
     }
@@ -42,7 +42,7 @@ public class BMI {
 
         System.out.println("---------------------");
 
-        BMI Person2 = new BMI(82.0,175.0);
+        BMI Person2 = new BMI(82.7,175.0);
         double MI2 = Person2.MassIndex();
         System.out.println("Name: " + Person2.person2);
         System.out.println("Height: " + Person2.height);
