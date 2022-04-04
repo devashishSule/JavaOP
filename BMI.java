@@ -38,17 +38,17 @@ public class BMI {
         System.out.println("Height: " + Person1.height);
         System.out.println("Weight: " + Person1.weight);
         System.out.println("Body Mass Index (BMI): " + MI1);
-        // Person1.conclusion(MI1);
+        Person1.conclusion(MI1);
 
         System.out.println("---------------------");
 
-        BMI Person2 = new BMI(82.7,175.0);
+        BMI Person2 = new BMI(82.0,175.0);
         double MI2 = Person2.MassIndex();
         System.out.println("Name: " + Person2.person2);
         System.out.println("Height: " + Person2.height);
         System.out.println("Weight: " + Person2.weight);
         System.out.println("Body Mass Index (BMI): " + MI2);
-        // Person2.conclusion(MI2);
+        Person2.conclusion(MI2);
 
     }
 }
