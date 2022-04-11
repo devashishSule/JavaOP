@@ -1,7 +1,7 @@
 
 class eren {
     // This is Method Overloading
-    void God(){ 
+    void God(/*no parameters*/){ 
         System.out.println("No parameters. (tatakae)");
     }
 
@@ -23,6 +23,6 @@ public class AttackOnTitan {
         eren ob = new eren();
         ob.God();
         ob.God("Attack Titan/Founding Titan");
-        ob.God(15,8);
+        ob.God(15,12);
     }
 }

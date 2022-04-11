@@ -3,8 +3,10 @@ class recurrsion{
         if(x==0 || x==1){
             System.out.println("Dude, you are dumb.");
         }
-        for(int i=1; i<=10; i++){
-            System.out.println(x + " * " + i + " = " + x*i);
+        else{
+            for(int i=1; i<=10; i++){
+                System.out.println(x + " * " + i + " = " + x*i);
+            }
         }
     }
 }
@@ -12,6 +14,6 @@ class recurrsion{
 public class multiplier {
     public static void main(String[] args) {
         recurrsion math = new recurrsion();
-        math.tableOf(/*number of table you want*/23);
+        math.tableOf(/*number of table you want*/5);
     }
 }

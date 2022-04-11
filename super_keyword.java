@@ -1,9 +1,9 @@
-class naruto{
-    String clan = "Uzumaki";
+class naruto{ // parent class
+    String clan = "Karandikar";
 }
 
-class sasuke extends naruto{
-    String clan = "Uchiha";
+class sasuke extends naruto{ // child class
+    String clan = "Sule";
     void printClan(){
         System.out.println("Shadow Hokage: Sasuke " + clan); // class sasuke var will be displayed
         System.out.println("Seventh Hokage: Naruto " + super.clan); 

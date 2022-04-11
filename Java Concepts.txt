@@ -18,7 +18,7 @@ Java Concecpts:
 4. Constructor: 
     Whenever an object is created, Constructor is invoked.
     Constructor name is same as class name.
-    e.g BMI.java in this repository
+    e.g BMI.java in this repository                 
 
 5. Dynamic Method Dispatch (DMD):
     Here, we have to create an object reference of an parent class inorder to call the
@@ -30,3 +30,6 @@ Java Concecpts:
     It can be suclassed. It may or may not contain abstract methods.Yo can only create 
     abstract methods here but cannot define them.
     e.g in abs_class.java file in this repository 
+
+7. Inheritance: 
+    

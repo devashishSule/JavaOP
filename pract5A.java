@@ -4,17 +4,17 @@
 interface info {
     int ID = 104;
     String Name = "Devashish Sule";
-    public void display_info();
+    public void display_info(); // method declared
 }
 
 
-class info2 {
+class info2 { // parent class
     String City = "Mumbai";
     String Country = "India";
     // public void address();
 }
 
-class printinfo extends info2 implements info{
+class printinfo extends info2 implements info{ // child class
     public void display_info(){
         System.out.println("Roll no. of candidate: " + ID);
         System.out.println("Name of candidate: " + Name);
