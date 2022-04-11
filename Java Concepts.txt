@@ -31,5 +31,5 @@ Java Concecpts:
     abstract methods here but cannot define them.
     e.g in abs_class.java file in this repository 
 
-7. Inheritance: 
+7. Inheritance:  
     
