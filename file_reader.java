@@ -5,12 +5,12 @@ public class file_reader {
         String fileOut = "C:\\Users\\Devashish\\OneDrive\\Desktop\\JavaOP\\Copied_text.txt";
         
         try{
-            FileReader fr = new FileReader(fileName);
-            FileWriter fw = new FileWriter(fileOut);
+            FileReader fr = new FileReader(fileName); //obj creation of reader
+            FileWriter fw = new FileWriter(fileOut); //obj creation of writer
             String str = "";
             int i;
             while((i=fr.read()) != -1){
-                str += (char)i; 
+                str = str + (char)i; 
             }
             System.out.println(str);
             fw.write(str);

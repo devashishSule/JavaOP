@@ -31,5 +31,14 @@ Java Concecpts:
     abstract methods here but cannot define them.
     e.g in abs_class.java file in this repository 
 
-7. Inheritance:  
+7. Inheritance:
+    Single: One parent class, one child class.
+    Multilevel: One parent class, one child class, child class has another class linked to it, so the child becomes
+                parent. lol
+    Multiple: One parent class, one interface, both linked to a child class 
+    Hierarchical: One parent class, has 2 or more child classes. 
+    Hybrid: All in one
+    
+
+ 
     
